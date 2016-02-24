@@ -1,3 +1,7 @@
+################################################################################
+# i4nt/lamp
+# https://github.com/iantruslove/lamp
+################################################################################
 FROM ubuntu:trusty
 MAINTAINER Fernando Mayo <fernando@tutum.co>, Feng Honglin <hfeng@tutum.co>
 
