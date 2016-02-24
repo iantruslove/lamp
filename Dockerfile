@@ -3,7 +3,7 @@
 # https://github.com/iantruslove/lamp
 ################################################################################
 FROM ubuntu:trusty
-MAINTAINER Fernando Mayo <fernando@tutum.co>, Feng Honglin <hfeng@tutum.co>
+MAINTAINER Ian Truslove <ian.truslove@gmail.com>
 
 # Install packages
 ENV DEBIAN_FRONTEND noninteractive
